@@ -1,5 +1,6 @@
 # Fill a Random Shape in an Image Using Python & OpenCV
 
+You can read the blog post [here](https://pycad.co/fill-a-random-shape-in-an-image-using-python-opencv/).
 
 ![Untitled design](https://user-images.githubusercontent.com/37108394/158122549-cace1b76-4acd-401d-9c48-007a47ba8ce4.png)
 
